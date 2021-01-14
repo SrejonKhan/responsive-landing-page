@@ -1,0 +1,147 @@
+/*common*/
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 4rem;
+  color: #363958;
+}
+h3 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3rem;
+  color: #363958;
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+p {
+  font-family: "Roboto", sans-serif;
+  font-size: 1rem;
+  color: #3e3e3e;
+}
+h5 {
+  font-family: "Roboto", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  color: #363958;
+}
+.primary-color {
+  color: #fabe4c;
+}
+
+/*top part*/
+.cust-btn {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  color: white;
+  background-image: linear-gradient(#a4bc46, #85a019);
+  border: none;
+  border-radius: 10px;
+  padding: 3.5% 7%;
+}
+.top-nav {
+  background-color: #fffbf0;
+}
+.top-nav-item {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #3c3c3c;
+  font-weight: 700;
+  padding-left: 1.5em;
+}
+.top-section {
+  background-color: #fffbf0;
+  padding-bottom: 2%;
+}
+.top-banner {
+  padding-bottom: 6rem !important;
+}
+
+/*product part*/
+.product-card {
+  border: none;
+  border-radius: 1em;
+  padding: 1em;
+  box-shadow: 0 0 18px rgba(0, 0, 0, 0.05);
+}
+.product-footer {
+  border: none;
+  background-color: white;
+  font-family: "Roboto", sans-serif;
+}
+.product-footer h3 {
+  font-family: "Roboto", sans-serif;
+  font-size: 36px;
+  font-weight: 900;
+  color: #fabe4c;
+}
+.product-footer button {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  color: white;
+  background-image: linear-gradient(#a4bc46, #85a019);
+  border: none;
+  border-radius: 10px;
+  padding: 1.25% 10%;
+}
+
+/*about section*/
+.about-card {
+  border: none;
+  border-radius: 1.5em;
+  box-shadow: 0 0 18px rgba(0, 0, 0, 0.05);
+}
+
+/*Newsletter*/
+.newsletter {
+  background-color: #fabe4c;
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+.newsletter h2 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 3rem;
+  color: #363958;
+}
+.newsletter-input {
+  background: #fffbf0;
+  border: none;
+  border-radius: 3px;
+  box-shadow: none;
+  outline: none;
+  color: inherit;
+  text-indent: 9px;
+  height: 55px;
+  margin-right: 10px;
+  min-width: 250px;
+}
+.newsletter-button {
+  background-color: #fffbf0;
+  color: #363958;
+  border: none;
+  border-radius: 3px;
+  padding: 16px 32px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+/*footer*/
+footer p {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #3e3e3e;
+  font-weight: bold;
+}
+footer a {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #fabe4c;
+  font-weight: bold;
+}
+footer a:hover {
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+  color: #b18533;
+  font-weight: bold;
+}
